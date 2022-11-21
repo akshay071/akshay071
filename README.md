@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Software Development Engineer in Test</h3>
 
-<img align="right" alt="Coding" width="500" src="https://tenor.com/view/programmer-gif-19019116">
+<img align="right" alt="Coding" width="300" src="https://tenor.com/view/programmer-gif-19019116">
 
 
 
