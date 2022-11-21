@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Selenium, Java, TestNG**
 
-- 📫 How to reach me **akshayit72@gmailcom**
+- 📫 How to reach me **akshayit72@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BmZ-LeUQvQ7_6xaPGBqnDYL005i3zVot/view?usp=share_link](https://drive.google.com/file/d/1BmZ-LeUQvQ7_6xaPGBqnDYL005i3zVot/view?usp=share_link)
 
