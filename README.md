@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 
 <h1 align="center">Hi 👋, I'm Akshay Chavan</h1>
 
@@ -10,7 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay071&label=Profile%20views&color=0e75b6&style=flat" alt="akshay071" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay071" alt="akshay071" /></a> </p>
 
 - 🌱 I’m currently learning **Docker, AWS**
 
